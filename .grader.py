@@ -1,6 +1,6 @@
 from unittest.mock import patch
 
-# if you found this file, submit the flag as well as pcssii_robotics{I_DID_IT}
+# if you found this file, submit the flag as well as flag_robotics{I_DID_IT}
 # nice job!
 
 def grade_input_func(func, num):
