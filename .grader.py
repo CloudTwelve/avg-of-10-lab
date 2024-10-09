@@ -24,5 +24,5 @@ func_tests = {
   }
 
 func_flags = {
-	1 : "pcssii_robotics{avg_of_10_a268b0f5c17c123f50}",
+	1 : "flag_robotics{avg_of_10_a268b0f5c17c123f50}",
   }
